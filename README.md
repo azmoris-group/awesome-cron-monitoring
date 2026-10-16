@@ -16,6 +16,7 @@
 - [Healthchecks.io](https://healthchecks.io) - Simple and effective heartbeat monitoring. Open source. 20 monitors free.
 - [Cronitor](https://cronitor.io) - Monitoring for cron jobs, background tasks, and heartbeats. 5 monitors free.
 - [Dead Man's Snitch](https://deadmanssnitch.com) - Monitoring for cron jobs and scheduled tasks.
+- [WatchCron](https://watchcron.com) - Cron job monitoring with heartbeat-style pings. Get alerted when jobs fail, run late, or stop running. 5 monitors free.
 - [Better Stack](https://betterstack.com) - Uptime monitoring with heartbeats. 1 free heartbeat.
 - [Honeybadger](https://www.honeybadger.io) - Check-ins for cron jobs with exit code and output capture.
 - [Sentry Crons](https://sentry.io/for/cron-monitoring/) - Monitor and fix cron job and scheduled task issues.
