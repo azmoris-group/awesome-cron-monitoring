@@ -20,6 +20,7 @@
 - [Honeybadger](https://www.honeybadger.io) - Check-ins for cron jobs with exit code and output capture.
 - [Sentry Crons](https://sentry.io/for/cron-monitoring/) - Monitor and fix cron job and scheduled task issues.
 - [Apprise](https://github.com/caronc/apprise) - Push notifications for your cron jobs.
+- [WatchCron](https://watchcron.com) - Cron job and scheduled task monitoring with heartbeat pings, duration tracking, and failure alerts. Supports any language or platform via simple HTTP pings. 5 monitors free.
 
 ## Self-Hosted
 
